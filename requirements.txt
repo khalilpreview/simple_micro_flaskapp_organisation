@@ -1,0 +1,15 @@
+#base
+Flask
+Flask-WTF
+Jinja2
+PyYAML
+Werkzeug
+requests
+
+# SQLAlchemy
+flask-restless
+Flask-SQLAlchemy
+flask-migrate
+
+# auth
+Flask-Login
